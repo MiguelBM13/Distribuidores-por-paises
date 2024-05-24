@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\T2_Bovadilla_Miguel.props" />
+</Project>
