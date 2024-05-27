@@ -18,6 +18,9 @@ namespace T2_Bovadilla_Miguel.Models
         [Phone]
         public string Telefono { get; set; }
 
+        [Required(ErrorMessage = "El Nombre del Pais es obligatorio")]
+        public string Pais { get; set; }
+
         [Required(ErrorMessage = "El año de inicio de operación es obligatorio.")]
         [Range(1900, 3000, ErrorMessage = "El año de inicio de operación debe estar entre 1900 y 3000.")]
         public int AñoInicioOperacion { get; set; }

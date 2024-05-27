@@ -6,6 +6,7 @@ namespace T2_Bovadilla_Miguel.Controllers
 {
     public class DistribuidorController : Controller
     {
+
         private readonly ApplicationDbContext _db;
 
         public DistribuidorController(ApplicationDbContext db)
@@ -90,7 +91,20 @@ namespace T2_Bovadilla_Miguel.Controllers
             _db.Distribuidor.Remove(Distribuidor);
             _db.SaveChanges();
             return RedirectToAction(nameof(Index));
+        }
 
+
+
+        public IActionResult DistribuidoresPeru()
+        {
+            var distribuidoresPeru = _db.Distribuidor.Where(d => d.Pais == "Perú" || d.Pais == "Peru").ToList();
+            return View("Index", distribuidoresPeru);
+        }
+
+        public IActionResult DistribuidoresMundo()
+        {
+            var distribuidoresMundo = _db.Distribuidor.Where(d => d.Pais != "Perú" && d.Pais != "Peru").ToList();
+            return View("Index", distribuidoresMundo);
         }
     }
 }

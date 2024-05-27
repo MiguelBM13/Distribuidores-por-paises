@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("T2_Bovadilla_Miguel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b3abe0d8de600b569b527dae761f21fb33dbc73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a25d9acb3931613c19b4bc9a0964b03aa5ecba4")]
 [assembly: System.Reflection.AssemblyProductAttribute("T2_Bovadilla_Miguel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("T2_Bovadilla_Miguel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

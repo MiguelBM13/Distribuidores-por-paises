@@ -3,30 +3,78 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\views\\distribuidor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:views\\distribuidor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\views\\distribuidor\\distribuidoresmundo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:views\\distribuidor\\distribuidoresmundo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\views\\distribuidor\\distribuidoresperu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:views\\distribuidor\\distribuidoresperu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\controllers\\distribuidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:controllers\\distribuidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\migrations\\20240523171625_agregardistribuidorabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:migrations\\20240523171625_agregardistribuidorabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\views\\distribuidor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:views\\distribuidor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\views\\distribuidor\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:views\\distribuidor\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\models\\distribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:models\\distribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|c:\\users\\pc\\desktop\\t2\\t2_bovadilla_miguel\\views\\distribuidor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEFAB5DD-FBA4-49C3-B893-CEA6B0355CC5}|T2_Bovadilla_Miguel.csproj|solutionrelative:views\\distribuidor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 183,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +82,164 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistribuidoresMundo.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\DistribuidoresMundo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distribuidor\\DistribuidoresMundo.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\DistribuidoresMundo.cshtml",
+              "RelativeToolTip": "Views\\Distribuidor\\DistribuidoresMundo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T06:54:49.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DistribuidoresPeru.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\DistribuidoresPeru.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distribuidor\\DistribuidoresPeru.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\DistribuidoresPeru.cshtml",
+              "RelativeToolTip": "Views\\Distribuidor\\DistribuidoresPeru.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T06:47:46.76Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:34:31.916Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T06:39:38.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T17:03:29.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T06:19:25.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T06:19:06.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distribuidor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Distribuidor\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAywEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T02:01:59.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distribuidor\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\Eliminar.cshtml",
+              "RelativeToolTip": "Views\\Distribuidor\\Eliminar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T05:55:37.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DistribuidorController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Controllers\\DistribuidorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DistribuidorController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Controllers\\DistribuidorController.cs",
+              "RelativeToolTip": "Controllers\\DistribuidorController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAWwGcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:13:10.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distribuidor\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\Crear.cshtml",
+              "RelativeToolTip": "Views\\Distribuidor\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T06:38:13.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Datos\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:21:30.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T06:11:16.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:15:18.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Distribuidor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Models\\Distribuidor.cs",
+              "RelativeDocumentMoniker": "Models\\Distribuidor.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Models\\Distribuidor.cs",
+              "RelativeToolTip": "Models\\Distribuidor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:12:21.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -68,21 +247,31 @@
               "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:41:43.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T06:15:12.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240523171625_agregarDistribuidorABD.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Migrations\\20240523171625_agregarDistribuidorABD.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240523171625_agregarDistribuidorABD.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Migrations\\20240523171625_agregarDistribuidorABD.cs",
-              "RelativeToolTip": "Migrations\\20240523171625_agregarDistribuidorABD.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAABDwBYAAABbAAAA",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T16:41:44.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T06:13:05.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Distribuidor\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\T2\\T2_Bovadilla_Miguel\\Views\\Distribuidor\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Distribuidor\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T06:11:07.235Z"
             }
           ]
         },

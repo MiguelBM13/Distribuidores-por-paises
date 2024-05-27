@@ -28,5 +28,11 @@ namespace T2_Bovadilla_Miguel.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+
+
+
+
+
     }
 }

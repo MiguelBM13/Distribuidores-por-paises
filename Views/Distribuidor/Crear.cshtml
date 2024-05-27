@@ -12,7 +12,7 @@
             <h2 class="text-info pl-3">Nueva Distribuidor</h2>
         </div>
         <div class="container">
-            <div class="row">
+             <div class="row">
                 <div class="col-md-6">
                     <label asp-for="NombreDistribuidor" class="form-label">Nombre Distribuidor</label>
                     <input asp-for="NombreDistribuidor" class="form-control" />
@@ -32,7 +32,15 @@
                     <input asp-for="Telefono" class="form-control" />
                     <span asp-validation-for="Telefono" class="text-danger"></span>
                 </div>
-            </div>     
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="Pais" class="form-label">Pais</label>
+                    <input asp-for="Pais" class="form-control" />
+                    <span asp-validation-for="Pais" class="text-danger"></span>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-md-6">
                     <label asp-for="AñoInicioOperacion" class="form-label">Año de Inicio de Operación</label>
